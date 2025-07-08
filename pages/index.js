@@ -40,7 +40,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           My name is Shai Brown, a Full Stack Developer. I'm currently working
-          as a Senior Full Stack Developer at{" "}
+          as a Full Stack Developer at{" "}
           <a href="https://theator.io/" target="_blank">
             Theator
           </a>
